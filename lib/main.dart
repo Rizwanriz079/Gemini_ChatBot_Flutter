@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:gemini_ai/Screens/ChatScreen.dart';
+import 'package:gemini_ai/Screens/ChatScreenUi.dart';
 
 void main(){
   runApp(MyApp());
